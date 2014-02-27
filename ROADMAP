@@ -1,0 +1,4 @@
+
+# Create vectors directly from an existing index (with stored terms) by invoking word2vec through JNI.
+# ElasticSearch plugin
+# (Solr plugin)
